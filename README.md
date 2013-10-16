@@ -4,3 +4,6 @@ RIP project is the project of Information Technology Department Nov.2012 to Marc
 1. Read the three-phase current value of three remote power lines separately
 2. Control the breaker of three remote power lines separately
 3. break the power lines automatically by VAMP relay when overcurrent happens
+
+
+For detail, please refer to the related document.
